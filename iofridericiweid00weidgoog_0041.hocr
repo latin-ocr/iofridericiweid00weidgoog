@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iofridericiweid00weidgoog_0041.png"; bbox 0 0 3950 4925; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 63 1468 1891 2344">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 63 1349 1896 2349">
+     <span class='ocr_line' id='line_1_1' title="bbox 159 1468 1076 1590; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 159 1468 164 1477; x_wconf 85' lang='grc'><strong><em>·</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 554 1476 1076 1590; x_wconf 76' lang='lat' dir='ltr'><strong>TABVLAE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 63 1677 1605 1950; baseline 0.001 -107"><span class='ocrx_word' id='word_1_3' title='bbox 63 1677 1495 1950; x_wconf 45' lang='lat' dir='ltr'>sP&#39;ERPEIJ&#39;DICVLQRVM</span> <span class='ocrx_word' id='word_1_4' title='bbox 1601 1740 1605 1749; x_wconf 84' lang='lat'>&#39;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 116 1971 1558 2067; baseline 0.003 -12"><span class='ocrx_word' id='word_1_5' title='bbox 116 2048 120 2055; x_wconf 93' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 276 2061 282 2067; x_wconf 88' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 764 1971 864 2063; x_wconf 82' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1554 1998 1558 2003; x_wconf 86' lang='grc'><em>“</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 173 2068 1891 2344; baseline 0.009 -62"><span class='ocrx_word' id='word_1_9' title='bbox 173 2272 178 2282; x_wconf 80' lang='grc'>,</span> <span class='ocrx_word' id='word_1_10' title='bbox 450 2068 1891 2344; x_wconf 35' lang='grc' dir='ltr'><strong>ΒΑε,ΙνΜ’,-’ί·”</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 101 2370 1323 2594">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 101 2370 1323 2594">
+     <span class='ocr_line' id='line_1_5' title="bbox 101 2370 1323 2594; baseline -0.006 -59"><span class='ocrx_word' id='word_1_11' title='bbox 101 2370 111 2377; x_wconf 68' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 303 2416 753 2534; x_wconf 79' lang='lat' dir='ltr'>TRIANGle</span> <span class='ocrx_word' id='word_1_13' title='bbox 803 2388 1323 2594; x_wconf 74' lang='lat' dir='ltr'><strong>RsscTANGym</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1980 4925">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1980 4925">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1980 4925; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1980 4925; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
